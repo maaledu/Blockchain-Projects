@@ -1,6 +1,6 @@
-# Blockchain Projects Portfolio
+# Blockchain Projects
 
-This document provides an overview of my blockchain practical projects, and final submissions.
+This document provides an overview of my blockchain practical projects.
 
 ---
 
